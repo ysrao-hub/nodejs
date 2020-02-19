@@ -1,0 +1,98 @@
+[
+    {
+        "isbn": "9781484249789",
+        "name": "Eloquent JavaScript, Second Edition",
+        "author": "Marijn Haverbeke",
+        "author_id": "12345",
+        "price": "1000",
+        "reviewers": [],
+        "country": "US",
+        "published_year": "2014",
+        "publisher": "No Starch Press",
+        "pages": 472
+    },
+    {
+        "isbn": "9781449331818",
+        "name": "Learning JavaScript Design Patterns",
+        "author": "Addy Osmani",
+        "author_id": "23456",
+        "price": "1500",
+        "reviewers": [],
+        "country": "Japan",
+        "published_year": "2012",
+        "publisher": "O'Reilly Media",
+        "pages": 254
+    },
+    {
+        "isbn": "9781449365035",
+        "name": "Speaking JavaScript",
+        "author": "Axel Rauschmayer",
+        "author_id": "56789",
+        "price": "1200",
+        "reviewers": [],
+        "country": "India",
+        "published_year": "2014",
+        "publisher": "O'Reilly Media",
+        "pages": 460
+    },
+    {
+        "isbn": "9781491950296",
+        "name": "Programming JavaScript Applications",
+        "author": "Eric Elliott",
+        "author_id": "45678",
+        "price": "2000",
+        "reviewers": [],
+        "country": "US",
+        "published_year": "2014",
+        "publisher": "O'Reilly Media",
+        "pages": 254
+    },
+    {
+        "isbn": "9781593277574",
+        "name": "Understanding ECMAScript 6",
+        "author": "Nicholas C. Zakas",
+        "author_id": "24791",
+        "price": "1700",
+        "reviewers": [],
+        "country": "India",
+        "published_year": "2019",
+        "publisher": "No Starch Press",
+        "pages": 352
+    },
+    {
+        "isbn": "9781491904244",
+        "name": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "author_id": "76543",
+        "price": "500",
+        "reviewers": [],
+        "country": "Japan",
+        "published_year": "2015",
+        "publisher": "O'Reilly Media",
+        "pages": 278
+    },
+    {
+        "isbn": "9781449325862",
+        "name": "Git Pocket Guide",
+        "author": "Richard E. Silverman",
+        "author_id": "98765",
+        "price": "1500",
+        "reviewers": [],
+        "country": "Japan",
+        "published_year": "2013",
+        "publisher": "O'Reilly Media",
+        "pages": 234
+    },
+    {
+        "isbn": "9781449337711",
+        "name": "Designing Evolvable Web APIs with ASP.NET",
+        "author": "Glenn Block, et al.",
+        "author_id": "64298",
+        "price": "2100",
+        "reviewers": [],
+        "country": "China",
+        "published_year": "2019",
+        "publisher": "O'Reilly Media",
+        "pages": 538
+    }
+]
